@@ -100,5 +100,5 @@ elif page == "About":
     ✅ Supportive & Stigma-Free  
 
     ⚠️ **Disclaimer:** This is not a substitute for professional medical advice.
-    """) 
+    """)  
 
